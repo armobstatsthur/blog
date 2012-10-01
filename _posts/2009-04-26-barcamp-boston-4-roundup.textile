@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Blogging Like a Hacker
 ---
 h1. Arthur
