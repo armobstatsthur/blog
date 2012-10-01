@@ -1,0 +1,9 @@
+permalink: /:title/
+exclude: ["README.md", "bin", ".gitignore"]
+production_url : http://armoucar.me
+
+pygments: true
+
+title: armoucar.me
+author:
+   name: Arthur Carvalho
