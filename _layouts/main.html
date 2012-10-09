@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>armoucar's blog</title>
+
+    <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <link rel="stylesheet" type="text/css" href="/css/bootstrap.min.css"/>
+    <link rel="stylesheet" type="text/css" href="/css/bootstrap-responsive.min.css"/>
+    <link rel="stylesheet" type="text/css" href="/css/application.css"/>
+    <decorator:head/>
+  </head>
+
+  <body>
+    <div class="container">
+      <div class="row">
+        <div class="span6 offset3">
+          <img class="avatar" src="http://www.gravatar.com/avatar/46192cf0945c0db783e6f807c2ff336d?s=150" />
+          <h1>Arthur Carvalho</h1>
+          <p class="lead">
+            <a href="http://github.com/armoucar" target="_blank">github</a> /
+            <a href="http://twitter.com/armoucar" target="_blank">twitter</a> /
+            <a href="#">rss</a>
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+      <div class="row">
+        <div class="span6 offset3">
+          {{ content }}
+        </div>
+      </div>
+    </div>
+
+    <!--
+    <script type="text/javascript" src="${pageContext.request.contextPath}/javascripts/jquery.min.js"></script>
+    -->
+    <script type="text/javascript" src="/javascripts/application.js"></script>
+    <script type="text/javascript" src="/javascripts/bootstrap.min.js"></script>
+  </body>
+</html>

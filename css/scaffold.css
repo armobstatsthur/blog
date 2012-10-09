@@ -1,0 +1,18 @@
+@media ( min-width :500px) {
+    .avatar {
+        float: right;
+        margin: 15px 10px;
+        padding: 5px;
+        box-shadow: 0 1px 2px rgba(0, 0, 0, 0.35);
+    }
+}
+
+@media ( max-width :767px) {    
+    .avatar {
+       float: none;
+       margin: 15px 10px;
+       padding: 5px;
+       box-shadow: 0 1px 2px rgba(0, 0, 0, 0.35);
+    }
+}
+
