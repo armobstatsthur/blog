@@ -12,15 +12,14 @@
     <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
 
-    <link rel="stylesheet" type="text/css" href="/css/bootstrap.min.css"/>
-    <link rel="stylesheet" type="text/css" href="/css/bootstrap-responsive.min.css"/>
+    <link rel="stylesheet" type="text/css" href="/css/bootstrap.css"/>
     <link rel="stylesheet" type="text/css" href="/css/application.css"/>
   </head>
 
   <body>
-    <div class="container">
+    <header class="container">
       <div class="row">
-        <div class="span6 offset3">
+        <div class="offset1 span8">
           <img class="avatar" src="http://www.gravatar.com/avatar/46192cf0945c0db783e6f807c2ff336d?s=150" />
           <h1>Arthur Carvalho</h1>
           <p class="lead">
@@ -28,22 +27,31 @@
             <a href="http://twitter.com/armoucar" target="_blank">twitter</a> /
             <a href="#">rss</a>
           </p>
+          <div class="tags">
+            <ul>
+              <li>java</li>
+              <li>eclipse</li>
+              <li>appengine</li>
+              <li>os x</li>
+            </ul>
+          </div>
         </div>
       </div>
-    </div>
+    </header>
 
     <div class="container">
       <div class="row">
-        <div class="span6 offset3">
+        <div class="offset1 span8">
           {{ content }}
         </div>
       </div>
     </div>
 
+
     <!--
     <script type="text/javascript" src="${pageContext.request.contextPath}/javascripts/jquery.min.js"></script>
     -->
     <script type="text/javascript" src="/javascripts/application.js"></script>
-    <script type="text/javascript" src="/javascripts/bootstrap.min.js"></script>
+    <script type="text/javascript" src="/javascripts/bootstrap.js"></script>
   </body>
 </html>
