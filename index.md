@@ -2,6 +2,7 @@
 layout: main
 title: Home
 ogtype: website
+class:
 ---
 
 <h2>Últimos posts</h2>
@@ -10,7 +11,7 @@ ogtype: website
   {% for post in site.posts %}
 
   	{% if post.draft != true %}
-    	<li class="{{ post.class }}">
+    	<li>
           <a href="{{ post.url }}">{{ post.title }}</a>
           <span class="date">{{ post.date | date_to_string }}</span>
       </li>
