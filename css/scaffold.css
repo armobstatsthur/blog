@@ -17,7 +17,26 @@ header ul li {
   display: inline-block;
 }
 
+ul.posts {
+  list-style-type: none;
+  margin: 0;
+}
+
+ul.posts li {
+  font-size: 20px;
+  line-height: 30px;
+  margin-bottom: .5em;
+}
+
+.date {
+  display: block;
+  font-size: 12px;
+  line-height: 0px;
+}
+
 @media ( min-width :860px) {
+  html {}
+
   .avatar {
     float: right;
     margin: 10px 10px;
@@ -26,58 +45,50 @@ header ul li {
   }
 }
 
-@media (max-width: 979px) and (min-width: 600px) {
+@media (max-width: 859px) and (min-width: 600px) {
+  html {}
+
   .avatar {
     float: right;
     margin: 10px 10px;
     padding: 5px;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.35);
   }
 }
 
-@media (max-width: 600px) {
+@media (max-width: 599px) and (min-width: 460px) {
+  html {}
+
   .avatar {
     float: right;
     margin: 2px 0px;
     padding: 5px;
     width: 120px;
     height: 120px;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.35);
   }
 }
 
-@media ( max-width :500px) and (min-width: 436px) {
+@media ( max-width :459px) {
+  html {}
+
   .avatar {
     float: right;
     margin: 2px 0px;
     padding: 5px;
-  }
-}
-
-@media ( max-width :600px) {
-  .avatar {
-    float: right;
-    margin: 2px 0px;
-    padding: 5px;
-    width: 90px;
-    height: 90px;
-  }
-}
-
-@media ( max-width :480px) {
-  .avatar {
-    float: right;
-    margin: 2px 0px;
-    padding: 5px;
-    width: 60px;
-    height: 60px;
+    width: 70px;
+    height: 70px;
   }
 
-  h1 {
-    font-size: 20px;
-    line-height: 20px;
-  }
-
-  header h1 {
+  .name {
     font-size: 25px;
+  }
+
+  .posts_title {
+    font-size: 20px;
+  }
+
+  .lead a {
   }
 
   span.date {
@@ -86,9 +97,10 @@ header ul li {
 
   ul.posts li {
     margin-bottom: 5px;
+    border-bottom: 1px solid;
   }
 
   .lead {
-    font-size: 17px;
+    font-size: 15px;
   }
 }
