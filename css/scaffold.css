@@ -17,6 +17,10 @@ header ul li {
   display: inline-block;
 }
 
+.posts_title {
+  margin-bottom: 30px;
+}
+
 ul.posts {
   list-style-type: none;
   margin: 0;
@@ -25,7 +29,7 @@ ul.posts {
 ul.posts li {
   font-size: 20px;
   line-height: 30px;
-  margin-bottom: .5em;
+  margin-bottom: 20px;
 }
 
 .date {
