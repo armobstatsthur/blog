@@ -1,5 +1,5 @@
 permalink: /:title/
-exclude: ["README.md", "bin", "appengine", "old_blogspot", ".gitignore"]
+exclude: ["README.md", "bin", "appengine", "old_blogspot", ".gitignore", "Rakefile"]
 production_url : http://armoucar.me
 
 pygments: true
