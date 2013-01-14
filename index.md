@@ -1,5 +1,5 @@
 ---
-layout: main
+layout: main2
 title: Home
 ogtype: website
 class:
