@@ -1,19 +1,21 @@
 ---
-layout: main2
+layout: main
 title: Home
 ogtype: website
 class:
 ---
 
-<h2 class="posts_title">Últimos posts</h2>
+<h2 class="page-title">
+  <span class="cifrao">$ </span><span class="posts-title">posts</span><span class="blinked-s">&nbsp;&nbsp;</span>
+</h2>
 
 <ul class="posts">
   {% for post in site.posts %}
 
   	{% if post.draft != true %}
-    	<li>
+    	<li class="one-post">
           <span class="date">{{ post.date | date_to_string }}</span>
-          <a href="{{ post.url }}">{{ post.title }}</a>
+          <a class="list-post-title" href="{{ post.url }}">{{ post.title }}</a>
       </li>
     {% endif %}
 

@@ -2,6 +2,9 @@ permalink: /:title/
 exclude: ["README.md", "bin", "appengine", "old_blogspot", ".gitignore", "Rakefile"]
 production_url : http://armoucar.me
 
+name: Arthur Carvalho
+url: http://armoucar-blog.appspot.com/
+
 pygments: true
 
 title: armoucar.me

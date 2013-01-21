@@ -1,114 +1,233 @@
 @CHARSET "UTF-8";
 
-@IMPORT url("scaffold.css");
+/*	Less Framework 4
+http://lessframework.com
+by Joni Korpi
+License: http://opensource.org/licenses/mit-license.php	*/
 
-div.container {
-  padding-bottom: 30px;
-}
-
-header h1 {
-  margin-bottom: 0;
-}
-
-header ul {
-  display: none;
+/*	Resets	*/
+html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6,
+p, blockquote, pre, a, abbr, address, cite, code, del, dfn, em,
+img, ins, kbd, q, samp, small, strong, sub, sup, var, b, i, hr,
+dl, dt, dd, ol, ul, li, fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, figure, figcaption, hgroup,
+menu, footer, header, nav, section, summary, time, mark, audio, video {
   margin: 0;
   padding: 0;
-  list-style-type: none;
+  border: 0;
 }
 
-header ul li {
-  display: inline-block;
-}
-
-.posts_title {
-  margin-bottom: 30px;
-}
-
-ul.posts {
-  list-style-type: none;
-  margin: 0;
-}
-
-ul.posts li {
-  font-size: 20px;
-  line-height: 30px;
-  margin-bottom: 20px;
-}
-
-.date {
+article, aside, canvas, figure, figure img, figcaption, hgroup,
+footer, header, nav, section, audio, video {
   display: block;
-  font-size: 12px;
-  line-height: 0px;
 }
 
-@media ( min-width :860px) {
-  html {}
+a img {border: 0;}
 
-  .avatar {
-    float: right;
-    margin: 10px 10px;
-    padding: 5px;
-    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.35);
-  }
+/*	Typography presets
+------------------	*/
+
+body {
+  font: 1em/1.5em;
+  font-family: 'Arial', sans-serif;
 }
 
-@media (max-width: 859px) and (min-width: 600px) {
-  html {}
+/* Selection colours (easy to forget) */
 
-  .avatar {
-    float: right;
-    margin: 10px 10px;
-    padding: 5px;
-    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.35);
-  }
+::selection 	 	{background: rgb(255,255,158);}
+::-moz-selection 	{background: rgb(255,255,158);}
+img::selection 		{background: transparent;}
+img::-moz-selection	{background: transparent;}
+body {-webkit-tap-highlight-color: rgb(255,255,158);}
+
+/*  Default Layout: 992px.
+Gutters: 24px.
+Outer margins: 48px.
+Leftover space for scrollbars @1024px: 32px.
+-------------------------------------------------------------------------------
+cols    1     2      3      4      5      6      7      8      9      10
+px      68    160    252    344    436    528    620    712    804    896    */
+
+
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
 }
 
-@media (max-width: 599px) and (min-width: 460px) {
-  html {}
-
-  .avatar {
-    float: right;
-    margin: 2px 0px;
-    padding: 5px;
-    width: 120px;
-    height: 120px;
-    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.35);
-  }
+body {
+  background: #FEFEFE;
+  color: #655151;
+  width: 100%;
+  padding: 2%;
+  margin-top: 1%
+  ;
 }
 
-@media ( max-width :459px) {
-  html {}
+.header {
+  text-align: center;
+}
 
-  .avatar {
-    float: right;
-    margin: 2px 0px;
-    padding: 5px;
-    width: 70px;
-    height: 70px;
-  }
+.blog-title {
+  text-decoration: none;
+  color: #655151;
+}
 
-  .name {
-    font-size: 25px;
-  }
+.huge, h1 {
+  font-size: 2.2em;
+  letter-spacing: -1px;
+}
 
-  .posts_title {
-    font-size: 20px;
-  }
+.large, h2 {
+  font-size: 1.4em;
+  padding: .4em 0;
+}
 
-  .lead a {
-  }
 
-  span.date {
-    display: none;
-  }
+.main-content {
+  clear: both;
+}
 
-  ul.posts li {
-    margin-bottom: 5px;
-    border-bottom: 1px solid;
-  }
+.posts-title {
 
-  .lead {
-    font-size: 15px;
-  }
+}
+
+.me {
+    max-width: 15em;
+    margin: 0 auto;
+}
+
+.minha-foto {
+  margin-left: 0.5em;
+}
+
+.cifrao {
+  color: #14691C;
+}
+
+.posts {
+  list-style-type: none;
+}
+
+.posts .one-post {
+  margin-bottom: 7%;
+}
+
+.list-post-title {
+  color: #4566A8;
+}
+
+.text-page {
+  margin-bottom: 1em;
+}
+
+.text-page p:first-of-type {
+  margin: .5em 0
+}
+
+.text-page p {
+  margin: 1.5em 0
+}
+
+.links {
+    float: left;
+}
+
+.links ul {
+  list-style-type: none;
+}
+
+.links ul li {
+  float: left;
+  padding: .5em;
+  background: #4566A8;
+  width: 4em;
+
+  text-align: center;
+  margin: .1em;
+}
+
+
+.links .primary-links li:nth-child(1),
+.links .secondary-links li:nth-child(1) {
+}
+
+.links .primary-links li:nth-child(1),
+.links .primary-links li:nth-child(2) {
+}
+
+.link {
+  text-decoration: none;
+  font-size: 1.1em;
+  color: #FEFEFE;
+}
+
+
+/*	Tablet Layout: 768px.
+Gutters: 24px.
+Outer margins: 28px.
+Inherits styles from: Default Layout.
+-----------------------------------------------------------------
+cols    1     2      3      4      5      6      7      8
+px      68    160    252    344    436    528    620    712    */
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+}
+
+/*	Mobile Layout: 320px.
+Gutters: 24px.
+Outer margins: 34px.
+Inherits styles from: Default Layout.
+---------------------------------------------
+cols    1     2      3
+px      68    160    252    */
+
+@media only screen and (max-width: 767px) {
+}
+
+/*	Wide Mobile Layout: 480px.
+Gutters: 24px.
+Outer margins: 22px.
+Inherits styles from: Default Layout, Mobile Layout.
+------------------------------------------------------------
+cols    1     2      3      4      5
+px      68    160    252    344    436    */
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+}
+
+.blinked-s {
+  -webkit-animation: 'blink' 2s infinite; /* Safari 4+ */
+  -moz-animation:    'blink' 2s infinite; /* Fx 5+ */
+  -o-animation:      'blink' 2s infinite; /* Opera 12+ */
+  animation:         'blink' 2s infinite; /* IE 10+ */
+}
+
+@-webkit-keyframes 'blink' {
+  0% { background: rgba(101, 81, 81, 1); }
+  49% { background: rgba(101, 81, 81, 1); }
+  50% { background: rgba(254, 254, 254, 0); }
+  100% { background: rgba(254, 254, 254, 0); }
+}
+
+@-moz-keyframes 'blink' {
+  0% { background: rgba(101, 81, 81, 1); }
+  49% { background: rgba(101, 81, 81, 1); }
+  50% { background: rgba(254, 254, 254, 0); }
+  100% { background: rgba(254, 254, 254, 0); }
+}
+
+@-o-keyframes 'blink' {
+  0% { background: rgba(101, 81, 81, 1); }
+  49% { background: rgba(101, 81, 81, 1); }
+  50% { background: rgba(254, 254, 254, 0); }
+  100% { background: rgba(254, 254, 254, 0); }
+}
+
+@keyframes 'blink' {
+  0% { background: rgba(101, 81, 81, 1); }
+  49% { background: rgba(101, 81, 81, 1); }
+  50% { background: rgba(254, 254, 254, 0); }
+  100% { background: rgba(254, 254, 254, 0); }
 }
