@@ -95,8 +95,8 @@ header {
 
 .me {
     max-width: 16em;
-    margin: 0 auto;
     overflow: hidden;
+    margin: 5em auto;
 }
 
 .container-da-foto {
@@ -194,10 +194,6 @@ header {
 
   .page-title {
     margin: 1em 0 1.5em;
-  }
-
-  .me {
-    margin: 5em auto 0;
   }
 
 }
