@@ -14,8 +14,8 @@ class:
 
   	{% if post.draft != true %}
     	<li class="one-post">
-          <span class="date">{{ post.date | date_to_string }}</span>
           <a class="list-post-title" href="{{ post.url }}">{{ post.title }}</a>
+          <span class="date">{{ post.date | date_to_string }}</span>
       </li>
     {% endif %}
 

@@ -29,8 +29,7 @@ a img {border: 0;}
 ------------------	*/
 
 body {
-  font: 1em/1.5em;
-  font-family: 'Arial', sans-serif;
+  font: 1em/1.5em 'Arial', sans-serif;
 }
 
 /* Selection colours (easy to forget) */
@@ -61,11 +60,10 @@ body {
   color: #655151;
   width: 100%;
   padding: 2%;
-  margin-top: 1%
-  ;
+  margin-top: 1%;
 }
 
-.header {
+header {
   text-align: center;
 }
 
@@ -81,12 +79,14 @@ body {
 
 .large, h2 {
   font-size: 1.4em;
-  padding: .4em 0;
 }
-
 
 .main-content {
   clear: both;
+}
+
+.page-title {
+  margin: 1em 0 0.5em;
 }
 
 .posts-title {
@@ -96,10 +96,17 @@ body {
 .me {
     max-width: 16em;
     margin: 0 auto;
+    overflow: hidden;
+}
+
+.container-da-foto {
+  float: left;
+  width: 5.5em;
 }
 
 .minha-foto {
   margin-left: 0.5em;
+  max-width: 100%;
 }
 
 .cifrao {
@@ -111,11 +118,20 @@ body {
 }
 
 .posts .one-post {
-  margin-bottom: 7%;
+  margin-bottom: 1em;
+  line-height: 1.1em;
 }
 
 .list-post-title {
   color: #4566A8;
+  display: block;
+  margin-bottom: 0.3em;
+}
+
+.date {
+  display: block;
+  line-height: 0.3em;
+  font-size: .5em;
 }
 
 .text-page {
@@ -164,37 +180,54 @@ body {
 }
 
 
-/*	Tablet Layout: 768px.
-Gutters: 24px.
-Outer margins: 28px.
-Inherits styles from: Default Layout.
------------------------------------------------------------------
-cols    1     2      3      4      5      6      7      8
-px      68    160    252    344    436    528    620    712    */
 
+/*	Desktop: 320px. */
+@media only screen and (min-width: 992px) {
+
+  body {
+    font: 1.5em/1.5em 'Arial', sans-serif;
+    background: #FEFEFE;
+    color: #655151;
+    width: 70%;
+    margin: 0 auto;
+  }
+
+  .page-title {
+    margin: 1em 0 1.5em;
+  }
+
+  .me {
+    margin: 5em auto 0;
+  }
+
+}
+
+/*	Tablet Layout: 768px. */
 @media only screen and (min-width: 768px) and (max-width: 991px) {
+
+  body {
+    font: 1.3em/1.5em 'Arial', sans-serif;
+  }
 }
 
-/*	Mobile Layout: 320px.
-Gutters: 24px.
-Outer margins: 34px.
-Inherits styles from: Default Layout.
----------------------------------------------
-cols    1     2      3
-px      68    160    252    */
-
-@media only screen and (max-width: 767px) {
-}
-
-/*	Wide Mobile Layout: 480px.
-Gutters: 24px.
-Outer margins: 22px.
-Inherits styles from: Default Layout, Mobile Layout.
-------------------------------------------------------------
-cols    1     2      3      4      5
-px      68    160    252    344    436    */
-
+/*	Wide Mobile Layout: 480px. */
 @media only screen and (min-width: 480px) and (max-width: 767px) {
+
+  body {
+    font: 1.2em/1.5em 'Arial', sans-serif;
+  }
+}
+
+/*	Android minimals Layout: 480px. */
+@media only screen and (max-width: 290px) {
+
+  .minha-foto {
+    display: none;
+  }
+
+  .links {
+    margin-left: 2.5em;
+  }
 }
 
 .blinked-s {
@@ -231,3 +264,38 @@ px      68    160    252    344    436    */
   50% { background: rgba(254, 254, 254, 0); }
   100% { background: rgba(254, 254, 254, 0); }
 }
+
+/* pygments */
+.hll { background-color: #ffffcc }
+.c { color: #008000 } /* Comment */
+.err { border: 1px solid #FF0000 } /* Error */
+.k { color: #0000ff } /* Keyword */
+.cm { color: #008000 } /* Comment.Multiline */
+.cp { color: #0000ff } /* Comment.Preproc */
+.c1 { color: #008000 } /* Comment.Single */
+.cs { color: #008000 } /* Comment.Special */
+.ge { font-style: italic } /* Generic.Emph */
+.gh { font-weight: bold } /* Generic.Heading */
+.gp { font-weight: bold } /* Generic.Prompt */
+.gs { font-weight: bold } /* Generic.Strong */
+.gu { font-weight: bold } /* Generic.Subheading */
+.kc { color: #0000ff } /* Keyword.Constant */
+.kd { color: #0000ff } /* Keyword.Declaration */
+.kn { color: #0000ff } /* Keyword.Namespace */
+.kp { color: #0000ff } /* Keyword.Pseudo */
+.kr { color: #0000ff } /* Keyword.Reserved */
+.kt { color: #2b91af } /* Keyword.Type */
+.s { color: #a31515 } /* Literal.String */
+.nc { color: #2b91af } /* Name.Class */
+.ow { color: #0000ff } /* Operator.Word */
+.sb { color: #a31515 } /* Literal.String.Backtick */
+.sc { color: #a31515 } /* Literal.String.Char */
+.sd { color: #a31515 } /* Literal.String.Doc */
+.s2 { color: #a31515 } /* Literal.String.Double */
+.se { color: #a31515 } /* Literal.String.Escape */
+.sh { color: #a31515 } /* Literal.String.Heredoc */
+.si { color: #a31515 } /* Literal.String.Interpol */
+.sx { color: #a31515 } /* Literal.String.Other */
+.sr { color: #a31515 } /* Literal.String.Regex */
+.s1 { color: #a31515 } /* Literal.String.Single */
+.ss { color: #a31515 } /* Literal.String.Symbol */
