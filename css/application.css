@@ -96,7 +96,7 @@ header {
 .me {
     max-width: 16em;
     overflow: hidden;
-    margin: 5em auto;
+    margin: 2em auto 0;
 }
 
 .container-da-foto {
@@ -196,6 +196,9 @@ header {
     margin: 1em 0 1.5em;
   }
 
+  .me {
+    margin: 5em auto 0;
+  }
 }
 
 /*	Tablet Layout: 768px. */
