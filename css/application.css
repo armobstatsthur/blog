@@ -67,6 +67,15 @@ header {
   text-align: center;
 }
 
+.main-content ul, .main-content ol {
+  margin: 1em 0 1em 2em;
+}
+
+li {
+  margin: 0 0 1em 0;
+}
+
+
 .blog-title {
   text-decoration: none;
   color: #655151;
@@ -91,6 +100,10 @@ header {
 
 .posts-title {
 
+}
+
+#disqus_thread {
+  margin-top: 2em;
 }
 
 .me {
@@ -159,18 +172,13 @@ header {
   padding: .5em;
   background: #4566A8;
   width: 4em;
-
   text-align: center;
   margin: .1em;
 }
 
 
-.links .primary-links li:nth-child(1),
 .links .secondary-links li:nth-child(1) {
-}
-
-.links .primary-links li:nth-child(1),
-.links .primary-links li:nth-child(2) {
+  clear: both;
 }
 
 .link {
@@ -192,12 +200,16 @@ header {
     margin: 0 auto;
   }
 
+  #disqus_thread {
+    margin-top: 5em;
+  }
+
   .page-title {
     margin: 1em 0 1.5em;
   }
 
   .me {
-    margin: 5em auto 0;
+    margin: 2em auto 0;
   }
 }
 
