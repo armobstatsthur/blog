@@ -18,16 +18,6 @@
     <header class="header">
       <a class="huge blog-title" href="/">Arthur Carvalho</a>
     </header>
-    <article class="main-content">
-      <h2 class="page-title">
-        <span class="cifrao">$ </span><span class="posts-title">{{ page.title}}</span>
-      </h2>
-      {{ content }}
-    </article>
-
-    <div class="comentarios">
-      <div class="fb-comments" data-href="http://arthurcarvalho.com{{ page.url }}" data-width="600" data-num-posts="500" fb-xfbml-state="rendered"></div>
-    </div>
 
     <div class="me">
       <nav class="links">
@@ -43,6 +33,17 @@
       <div class="container-da-foto">
         <img class="minha-foto" src="http://www.gravatar.com/avatar/46192cf0945c0db783e6f807c2ff336d?s=165" />
       </div>
+    </div>
+
+    <article class="main-content">
+      <h2 class="page-title">
+        <span class="cifrao">$ </span><span class="posts-title">{{ page.title}}</span>
+      </h2>
+      {{ content }}
+    </article>
+
+    <div class="comentarios">
+      <div class="fb-comments" data-href="http://arthurcarvalho.com{{ page.url }}" data-width="600" data-num-posts="500" fb-xfbml-state="rendered"></div>
     </div>
 
 <div id="fb-root"></div>

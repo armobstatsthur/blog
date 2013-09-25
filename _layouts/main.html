@@ -15,12 +15,10 @@
 
   <body lang="en">
 
-    <header>
+    <header class="header">
       <a class="huge blog-title" href="/">Arthur Carvalho</a>
     </header>
-    <section class="main-content">
-      {{ content }}
-    </section>
+
     <div class="me">
       <nav class="links">
         <ul class="primary-links">
@@ -32,10 +30,15 @@
           <li><a class="link" href="http://twitter.com/armoucar" target="_blank">twitter</a></li>
         </ul>
       </nav>
+
       <div class="container-da-foto">
         <img class="minha-foto" src="http://www.gravatar.com/avatar/46192cf0945c0db783e6f807c2ff336d?s=165" />
       </div>
     </div>
+
+    <section class="main-content">
+      {{ content }}
+    </section>
   </body>
 
 </html>
