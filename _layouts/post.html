@@ -14,6 +14,7 @@
   </head>
 
   <body lang="en">
+
     <header class="header">
       <a class="huge blog-title" href="/">Arthur Carvalho</a>
     </header>
@@ -23,7 +24,11 @@
       </h2>
       {{ content }}
     </article>
-    <div id="disqus_thread"></div>
+
+    <div class="comentarios">
+      <div class="fb-comments" data-href="http://arthurcarvalho.com{{ page.url }}" data-width="600" data-num-posts="500" fb-xfbml-state="rendered"></div>
+    </div>
+
     <div class="me">
       <nav class="links">
         <ul class="primary-links">
@@ -39,17 +44,16 @@
         <img class="minha-foto" src="http://www.gravatar.com/avatar/46192cf0945c0db783e6f807c2ff336d?s=165" />
       </div>
     </div>
-    <script type="text/javascript">
-        var disqus_shortname = 'armoucar-blog';
-        (function() {
-            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-            dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
-            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-        })();
-    </script>
-    <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-    <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
-    
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/pt_BR/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
   </body>
 
 </html>

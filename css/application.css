@@ -71,6 +71,16 @@ header {
   margin: 1em 0 1em 2em;
 }
 
+.comentarios {
+  margin: 0 auto;
+  text-align: center;
+}
+
+.fb-comments {
+  max-width: 600px;
+  width: 100%!important;
+}
+
 li {
   margin: 0 0 1em 0;
 }
@@ -92,6 +102,7 @@ li {
 
 .main-content {
   clear: both;
+  margin-bottom: 2em;
 }
 
 .page-title {
@@ -102,14 +113,10 @@ li {
 
 }
 
-#disqus_thread {
-  margin-top: 2em;
-}
-
 .me {
-    max-width: 16em;
-    overflow: hidden;
-    margin: 2em auto 0;
+  max-width: 16em;
+  overflow: hidden;
+  margin: 2em auto 0;
 }
 
 .container-da-foto {
@@ -176,7 +183,6 @@ li {
   margin: .1em;
 }
 
-
 .links .secondary-links li:nth-child(1) {
   clear: both;
 }
@@ -187,8 +193,6 @@ li {
   color: #FEFEFE;
 }
 
-
-
 /*	Desktop: 320px. */
 @media only screen and (min-width: 992px) {
 
@@ -198,10 +202,6 @@ li {
     color: #655151;
     width: 70%;
     margin: 0 auto;
-  }
-
-  #disqus_thread {
-    margin-top: 5em;
   }
 
   .page-title {
@@ -310,3 +310,6 @@ li {
 .sr { color: #a31515 } /* Literal.String.Regex */
 .s1 { color: #a31515 } /* Literal.String.Single */
 .ss { color: #a31515 } /* Literal.String.Symbol */
+
+.fb-comments, .fb-comments iframe[style], .fb-like-box, .fb-like-box iframe[style] {width: 100% !important;}
+.fb-comments span, .fb-comments iframe span[style], .fb-like-box span, .fb-like-box iframe span[style] {width: 100% !important;}
