@@ -40,15 +40,6 @@ img::selection 		{background: transparent;}
 img::-moz-selection	{background: transparent;}
 body {-webkit-tap-highlight-color: rgb(255,255,158);}
 
-/*  Default Layout: 992px.
-Gutters: 24px.
-Outer margins: 48px.
-Leftover space for scrollbars @1024px: 32px.
--------------------------------------------------------------------------------
-cols    1     2      3      4      5      6      7      8      9      10
-px      68    160    252    344    436    528    620    712    804    896    */
-
-
 * {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
@@ -61,6 +52,8 @@ body {
   width: 100%;
   padding: 2%;
   margin-top: 1%;
+  background: url("../images/brasil-ireland.jpg") no-repeat;
+  background-size: 10%;
 }
 
 .header {
@@ -220,6 +213,7 @@ li {
     font: 1.5em/1.5em 'Arial', sans-serif;
     margin: 0 auto;
     width: 70%;
+    background-size: 5%;
   }
 
   .page-title {
@@ -229,6 +223,7 @@ li {
   .me {
     margin: 2em auto 0;
   }
+
 }
 
 @media only screen and (min-width: 100em) {
@@ -236,6 +231,7 @@ li {
   body {
     font: 1.7em/1.5em 'Arial', sans-serif;
     width: 80%;
+    background-size: 3%;
   }
 
   .page-title {
