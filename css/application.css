@@ -46,19 +46,37 @@ body {-webkit-tap-highlight-color: rgb(255,255,158);}
   box-sizing: border-box;
 }
 
+/* COLORS */
 body {
-  background: #FEFEFE;
+  background-color: burlywood;
+}
+
+.header {
+  background-color: aqua;
+}
+
+.me {
+  background-color: chocolate;
+}
+
+.main-content {
+  background-color: gold;
+}
+/* COLORS */
+
+body {
   color: #655151;
-  width: 100%;
+  width: 80%;
   padding: 2%;
-  margin-top: 1%;
-  background: url("../images/brasil-ireland.jpg") no-repeat;
+  margin: 0 auto;
+  background: url("../images/brasil-ireland.jpg") no-repeat burlywood;
   background-size: 10%;
 }
 
 .header {
   text-align: center;
   margin-bottom: 1em;
+  padding: 1em;
 }
 
 .main-content ul, .main-content ol {
@@ -96,12 +114,11 @@ li {
 }
 
 .main-content {
-  clear: both;
-  margin-bottom: 1em;
+  padding: 1em;
 }
 
 .page-title {
-  margin: 1em 0 0.5em;
+  margin-bottom: .5em;
 }
 
 .posts-title {
@@ -111,15 +128,18 @@ li {
 .me {
   overflow: hidden;
   margin: 0 auto;
-  max-width: 8.5em;
+  position: relative;
+  max-width: 16em;
+  padding: 1em;
 }
 
 .container-da-foto {
-  width: 7.5em;
+  position: absolute;
+  right: 1em;
+  width: 5.5em;
 }
 
 .minha-foto {
-  margin: 1em .5em 0;
   max-width: 100%;
 }
 
@@ -186,27 +206,31 @@ li {
   color: #FEFEFE;
 }
 
-/*	Tablet Layout: 768px. */
+@media only screen and (max-width: 26em) {
+
+  body {
+    padding: 1%;
+    margin: 0 auto;
+    width: 100%;
+    background-size: 100%;
+  }
+
+  .header {
+    opacity: 0.85;
+  }
+
+  .main-content {
+    opacity: 0.85;
+  }
+}
+
 @media only screen and (min-width: 45em) {
 
   body {
     font: 1.3em/1.5em 'Arial', sans-serif;
   }
-
-  .me {
-    max-width: 19.5em;
-  }
-
-  .container-da-foto {
-    width: auto;
-  }
-
-  .minha-foto {
-    margin: 0 .5em;
-  }
 }
 
-/*	Desktop: 320px. */
 @media only screen and (min-width: 62em) {
 
   body {
@@ -216,14 +240,9 @@ li {
     background-size: 5%;
   }
 
-  .page-title {
-    margin: 1em 0 1.5em;
-  }
-
   .me {
     margin: 2em auto 0;
   }
-
 }
 
 @media only screen and (min-width: 100em) {
@@ -236,18 +255,6 @@ li {
 
   .page-title {
     margin: 1em 0 1.5em;
-  }
-
-  .me {
-    margin: 2em auto 0;
-  }
-}
-
-/*	Wide Mobile Layout: 480px. */
-@media only screen and (min-width: 480px) and (max-width: 767px) {
-
-  body {
-    font: 1.2em/1.5em 'Arial', sans-serif;
   }
 }
 
