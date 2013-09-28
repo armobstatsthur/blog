@@ -76,15 +76,15 @@ body {
 .header {
   text-align: center;
   margin-bottom: 1em;
-  padding: 1em;
+  padding: .5em;
 }
 
 .main-content ul, .main-content ol {
-  margin: 1em 0 1em 2em;
+  margin: 1em 0 1em 1em;
 }
 
 .comentarios {
-  margin: 0 auto;
+  margin: 2em auto 0;
   min-height: 170px;
   text-align: center;
 }
@@ -114,15 +114,12 @@ li {
 }
 
 .main-content {
+  min-height: 20em;
   padding: 1em;
 }
 
 .page-title {
-  margin-bottom: .5em;
-}
-
-.posts-title {
-
+  margin-bottom: 1.5em;
 }
 
 .me {
@@ -162,6 +159,10 @@ li {
   margin-bottom: 0.3em;
 }
 
+.posts p {
+  text-align: justify;
+}
+
 .date {
   display: block;
   line-height: 0.3em;
@@ -180,11 +181,9 @@ li {
   margin: 1.5em 0
 }
 
-.links {
-}
-
 .links ul {
   list-style-type: none;
+  margin: 0;
 }
 
 .links ul li {
@@ -212,15 +211,18 @@ li {
     padding: 1%;
     margin: 0 auto;
     width: 100%;
+    /*
     background-size: 100%;
+    */
   }
 
-  .header {
-    opacity: 0.85;
+  .container-da-foto {
+    display: none;
   }
 
-  .main-content {
-    opacity: 0.85;
+  .links ul li {
+    float: none;
+    width: 100%;
   }
 }
 
@@ -253,10 +255,44 @@ li {
     background-size: 3%;
   }
 
-  .page-title {
-    margin: 1em 0 1.5em;
+  .header {
+    float: right;
+    padding: 1em;
+  }
+
+  .main-content {
+    padding: 2em;
+  }
+
+  .me {
+    width: 16em;
+  }
+
+  .posts {
+    max-width: 50%;
+  }
+
+  .comentarios {
+    text-align: initial;
   }
 }
+
+@media only screen and (min-width: 110em) {
+  .posts {
+    max-width: 57%;
+  }
+}
+
+@media only screen and (min-width: 150em) {
+  body {
+    font: 2.2em/1.5em 'Arial', sans-serif;
+  }
+
+  .posts {
+    max-width: 60%;
+  }
+}
+
 
 .blinked-s {
   -webkit-animation: 'blink' 2s infinite; /* Safari 4+ */
