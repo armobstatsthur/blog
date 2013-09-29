@@ -53,9 +53,6 @@ body {
   background-color: #182945;
 }
 
-.header {
-}
-
 .me {
   background-color: #A1C436;
 }
@@ -82,20 +79,26 @@ a {
 
 /* COLORS */
 
+/*
 body {
   width: 80%;
   padding: 2%;
   margin: 0 auto;
-  background: url("../images/brasil-ireland.jpg") no-repeat #182945;
-  background-size: 10%;
+}
+*/
+
+body {
+  margin: 0 auto;
+  width: 100%;
 }
 
 .header {
   text-align: center;
+  position: relative;
 }
 
 .main-content ul, .main-content ol {
-  margin: 1em 0 1em 1em;
+  margin: 0 0 1em 1em;
 }
 
 .comentarios {
@@ -130,10 +133,12 @@ li {
 .main-content {
   min-height: 20em;
   padding: 1em;
+  background: url("../images/brasil-ireland.jpg") no-repeat #182945;
+  background-size: 10%;
 }
 
 .page-title {
-  margin-bottom: 1.5em;
+  margin-bottom: 1.7em;
 }
 
 .me {
@@ -144,10 +149,19 @@ li {
   padding: 1em;
 }
 
-.container-da-foto {
+.container-dont-panic {
   position: absolute;
-  right: 1em;
-  width: 5.2em;
+  width: 4em;
+  right: -1.3em;
+  top: -2.2em;
+}
+
+.dont-panic {
+  max-width: 100%;
+}
+
+.container-da-foto {
+  display: none;
 }
 
 .minha-foto {
@@ -198,9 +212,9 @@ li {
 }
 
 .links ul li {
-  float: left;
+  float: none;
+  width: 100%;
   padding: .5em;
-  width: 4em;
   text-align: center;
 }
 
@@ -226,41 +240,62 @@ li {
   display: none;
 }
 
-@media only screen and (max-width: 26em) {
+@media only screen and (min-width: 26em) {
 
   body {
-    padding: 1%;
-    margin: 0 auto;
-    width: 100%;
-    background-image: none;
+    font: 1.3em/1.5em 'Arial', sans-serif;
+  }
+
+  .main-content {
+    padding: 2em;
   }
 
   .container-da-foto {
-    display: none;
+    display: block;
+    position: absolute;
+    right: 1em;
+    width: 5.2em;
+  }
+
+  .container-dont-panic {
+    top: -3.2em;
+    right: -2.3em;
   }
 
   .links ul li {
-    float: none;
-    width: 100%;
+    float: left;
+    width: 4em;
   }
+
 }
 
 @media only screen and (min-width: 45em) {
 
   body {
-    font: 1.3em/1.5em 'Arial', sans-serif;
+    font: 1.5em/1.5em 'Arial', sans-serif;
+    margin: 0 auto;
+  }
+
+  .container-dont-panic {
+    width: 5em;
+    top: -3.6em;
+  }
+
+  .main-content {
+    background-size: 5%;
   }
 }
 
 @media only screen and (min-width: 62em) {
 
   body {
-    font: 1.5em/1.5em 'Arial', sans-serif;
+    font: 1.6em/1.5em 'Arial', sans-serif;
     margin: 0 auto;
-    width: 70%;
-    background-size: 5%;
   }
 
+  .posts {
+    padding: 2em;
+  }
 }
 
 @media only screen and (min-width: 100em) {
@@ -268,6 +303,7 @@ li {
   body {
     font: 1.7em/1.5em 'Arial', sans-serif;
     width: 80%;
+    background: url("../images/brasil-ireland.jpg") no-repeat #182945;
     background-size: 3%;
   }
 
@@ -276,8 +312,14 @@ li {
     right: 12em;
   }
 
+  .container-dont-panic {
+    position: initial;
+    width: initial;
+  }
+
   .main-content {
     padding: 2em;
+    background: none;
   }
 
   .me {
@@ -286,6 +328,7 @@ li {
 
   .posts {
     max-width: 50%;
+    padding: 0em;
   }
 
   .comentarios {
