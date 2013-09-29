@@ -29,6 +29,7 @@ var CLIType = (function(window, undefined) {
 
   var _applyCLIType = function(sel) {
     var place = document.querySelector(sel);
+
     var htmlLetters = _transformToSpans(place.innerHTML);
 
     place.innerHTML = "";
@@ -48,8 +49,14 @@ var CLIType = (function(window, undefined) {
       setTimeout((function (v) {
         return function() { v.func.apply(v); };
       })(v), timeoutSum);
-
     }
+
+    setTimeout(function () {
+      var blinkedS = document.querySelector(".blinked-s");
+      blinkedS.className = blinkedS.className.replace("withoutDisplay", "");
+    }, timeoutSum + 500);
+
+    place.className = place.className.replace("withoutDisplay", "");
   };
 
   return {

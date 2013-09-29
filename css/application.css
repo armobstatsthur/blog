@@ -156,6 +156,7 @@ li {
 
 .posts {
   list-style-type: none;
+  display: inline-block;
 }
 
 .posts .one-post {

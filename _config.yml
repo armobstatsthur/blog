@@ -3,7 +3,7 @@ exclude: ["README.md", "bin", "appengine", "old_blogspot", ".gitignore", "Rakefi
 production_url : http://armoucar.me
 
 name: Arthur Carvalho
-url: http://armoucar-blog.appspot.com/
+url: http://arthurcarvalho.com/
 
 pygments: true
 
