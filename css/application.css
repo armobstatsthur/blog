@@ -47,36 +47,51 @@ body {-webkit-tap-highlight-color: rgb(255,255,158);}
 }
 
 /* COLORS */
+
 body {
-  background-color: burlywood;
+  color: #E8E8F0;
+  background-color: #182945;
 }
 
 .header {
-  background-color: aqua;
 }
 
 .me {
-  background-color: chocolate;
+  background-color: #A1C436;
 }
 
 .main-content {
-  background-color: gold;
+  background-color: #182945;
 }
+
+a {
+  color: #FBF6CE;
+}
+
+.links ul li {
+  background: #4566A8;
+}
+
+.blog-title {
+  color: #E8E8F0;
+}
+
+.cifrao {
+  color: #A1C436;
+}
+
 /* COLORS */
 
 body {
-  color: #655151;
   width: 80%;
   padding: 2%;
   margin: 0 auto;
-  background: url("../images/brasil-ireland.jpg") no-repeat burlywood;
+  background: url("../images/brasil-ireland.jpg") no-repeat #182945;
   background-size: 10%;
 }
 
 .header {
   text-align: center;
-  margin-bottom: 1em;
-  padding: .5em;
 }
 
 .main-content ul, .main-content ol {
@@ -101,7 +116,6 @@ li {
 
 .blog-title {
   text-decoration: none;
-  color: #655151;
 }
 
 .huge, h1 {
@@ -124,7 +138,7 @@ li {
 
 .me {
   overflow: hidden;
-  margin: 0 auto;
+  margin: 2em auto;
   position: relative;
   max-width: 16em;
   padding: 1em;
@@ -133,15 +147,11 @@ li {
 .container-da-foto {
   position: absolute;
   right: 1em;
-  width: 5.5em;
+  width: 5.2em;
 }
 
 .minha-foto {
   max-width: 100%;
-}
-
-.cifrao {
-  color: #14691C;
 }
 
 .posts {
@@ -154,13 +164,13 @@ li {
 }
 
 .list-post-title {
-  color: #4566A8;
   display: block;
   margin-bottom: 0.3em;
 }
 
 .posts p {
   text-align: justify;
+  margin-bottom: 1em;
 }
 
 .date {
@@ -189,10 +199,16 @@ li {
 .links ul li {
   float: left;
   padding: .5em;
-  background: #4566A8;
   width: 4em;
   text-align: center;
-  margin: .1em;
+}
+
+.primary-links li {
+  margin: 0 .1em .1em .1em;
+}
+
+.secondary-links li {
+  margin: .1em .1em 0 .1em;
 }
 
 .links .secondary-links li:nth-child(1) {
@@ -205,15 +221,17 @@ li {
   color: #FEFEFE;
 }
 
+.withoutDisplay {
+  display: none;
+}
+
 @media only screen and (max-width: 26em) {
 
   body {
     padding: 1%;
     margin: 0 auto;
     width: 100%;
-    /*
-    background-size: 100%;
-    */
+    background-image: none;
   }
 
   .container-da-foto {
@@ -242,9 +260,6 @@ li {
     background-size: 5%;
   }
 
-  .me {
-    margin: 2em auto 0;
-  }
 }
 
 @media only screen and (min-width: 100em) {
@@ -256,8 +271,8 @@ li {
   }
 
   .header {
-    float: right;
-    padding: 1em;
+    position: fixed;
+    right: 12em;
   }
 
   .main-content {
