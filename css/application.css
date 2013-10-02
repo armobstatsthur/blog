@@ -75,6 +75,12 @@ a {
 
 .cifrao {
   color: #A1C436;
+  font-size: 2em;
+  font-weight: bold;
+}
+
+strong {
+  color: #FFE60D;
 }
 
 /* COLORS */
@@ -90,6 +96,19 @@ body {
 body {
   margin: 0 auto;
   width: 100%;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin-bottom: .5em;
+}
+
+em {
+}
+
+#maps-ireland {
+  width: 100%;
+  height: 10em;
+  margin-bottom: 1em;
 }
 
 .header {
@@ -121,12 +140,19 @@ li {
   text-decoration: none;
 }
 
-.huge, h1 {
+.huge {
   font-size: 2.2em;
-  letter-spacing: -1px;
 }
 
-.large, h2 {
+h1 {
+  font-size: 2em;
+}
+
+h2 {
+  font-size: 1.5em;
+}
+
+.large {
   font-size: 1.4em;
 }
 
@@ -142,8 +168,14 @@ li {
   background-size: 10%;
 }
 
+.cabecalho {
+  margin-bottom: 1.6em;
+}
+
 .page-title {
-  margin-bottom: 1.7em;
+  display: inline;
+  margin-bottom: 1em;
+  min-width: 5em;
 }
 
 .me {
@@ -173,6 +205,10 @@ li {
   max-width: 100%;
 }
 
+.post {
+  display: inline-block;
+}
+
 .posts {
   list-style-type: none;
   display: inline-block;
@@ -181,6 +217,11 @@ li {
 .posts .one-post {
   margin-bottom: 1em;
   line-height: 1.1em;
+}
+
+.posts-title {
+  display: inline;
+  font-size: 1.2em;
 }
 
 .list-post-title {
@@ -245,11 +286,11 @@ li {
   display: none;
 }
 
-@media only screen and (min-width: 26em) {
+.notVisible {
+  visibility: hidden;
+}
 
-  body {
-    font: 1.3em/1.5em 'Arial', sans-serif;
-  }
+@media only screen and (min-width: 26em) {
 
   .content {
     padding: 2em;
@@ -277,7 +318,7 @@ li {
 @media only screen and (min-width: 45em) {
 
   body {
-    font: 1.5em/1.5em 'Arial', sans-serif;
+    font-size: 1.4em;
     margin: 0 auto;
   }
 
@@ -294,7 +335,7 @@ li {
 @media only screen and (min-width: 62em) {
 
   body {
-    font: 1.6em/1.5em 'Arial', sans-serif;
+    font-size: 1.5em;
     margin: 0 auto;
   }
 
@@ -306,7 +347,7 @@ li {
 @media only screen and (min-width: 95em) {
 
   body {
-    font: 1.7em/1.5em 'Arial', sans-serif;
+    font-size: 1.5em;
     width: 80%;
     background: url("../images/brasil-ireland.jpg") no-repeat #182945;
     background-size: 3%;
@@ -332,7 +373,7 @@ li {
   }
 
   .post, .main-content {
-    max-width: 50%;
+    max-width: 55%;
     padding: 0em;
     margin: 0;
   }
@@ -343,25 +384,18 @@ li {
 }
 
 @media only screen and (min-width: 110em) {
+  body {
+    font-size: 1.7em;
+  }
+
   .post, .main-content {
     max-width: 57%;
   }
 }
 
-@media only screen and (min-width: 150em) {
-  body {
-    font: 2.2em/1.5em 'Arial', sans-serif;
-  }
-
-  .posts, .main-content {
-    max-width: 60%;
-  }
-}
-
-
 .blinked-s {
-  -webkit-animation: 'blink' 2s infinite; /* Safari 4+ */
   -moz-animation:    'blink' 2s infinite; /* Fx 5+ */
+  -webkit-animation: 'blink' 2s infinite; /* Safari 4+ */
   -o-animation:      'blink' 2s infinite; /* Opera 12+ */
   animation:         'blink' 2s infinite; /* IE 10+ */
 }

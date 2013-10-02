@@ -35,14 +35,16 @@
         </div>
 
         <div class="container-dont-panic">
-          <a href="#"><img class="dont-panic" src="../images/dont-panic.png" alt="about me" /></a>
+          <a href="/dont-panic#post"><img class="dont-panic" src="../images/dont-panic.png" alt="about me" /></a>
         </div>
       </header>
 
       <article class="post">
-        <h2 class="page-title">
-          <span class="cifrao">$ </span><a id="post"><span class="posts-title">{{ page.title}}</span></a>
-        </h2>
+        <header class="cabecalho">
+          <a id="post"></a>
+          <span class="cifrao">$</span>
+          <h1 class="page-title">{{ page.title}}</h1>
+        </header>
 
         {{ content }}
 
@@ -54,15 +56,16 @@
     </section>
 
 
-<div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/pt_BR/all.js#xfbml=1";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
-
+    <div id="fb-root"></div>
+    <script type="text/javascript" charset="utf-8" src="/javascripts/CLIType.js"></script>
+    <script type="text/javascript" charset="utf-8" src="/javascripts/application.js"></script>
+    <script>(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/pt_BR/all.js#xfbml=1";
+    fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
   </body>
 
 </html>
