@@ -34,11 +34,11 @@ body {
 
 /* Selection colours (easy to forget) */
 
-::selection 	 	{background: rgb(255,255,158);}
-::-moz-selection 	{background: rgb(255,255,158);}
+::selection 	 	{background: #FF00F5;}
+::-moz-selection 	{background: #FF00F5;}
 img::selection 		{background: transparent;}
 img::-moz-selection	{background: transparent;}
-body {-webkit-tap-highlight-color: rgb(255,255,158);}
+body {-webkit-tap-highlight-color: #FF00F5;}
 
 * {
   -webkit-box-sizing: border-box;
@@ -103,6 +103,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 em {
+  font-weight: bold;
 }
 
 #maps-ireland {
