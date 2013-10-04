@@ -8,7 +8,7 @@ tags: []
 
 _Don't panic buddy, you've just arrived in a good place!_ 
 
-Em 7 de novembro/13 estarei embarcando para **Dublin**, Irlanda. Este é um blog sobre o meu **intercâmbio**! Estou bem animado e será um prazer compartilhar por aqui alguns momentos, mesmo sem ter idéia de quais serão. Aqui é minha casa, um dos meus lares. Então vou ser pessoal, utilizar a linguagem coloquial e a porra toda ;).
+Em 7 de novembro/13 estarei embarcando para **Dublin**, Irlanda. Este é um blog sobre o meu **intercâmbio**! Estou bem animado e será um prazer compartilhar por aqui alguns momentos, mesmo sem ter idéia de quais serão. Aqui é minha casa, um dos meus lares. Então vou ser pessoal, utilizar a linguagem coloquial e a porra toda.
 
 <div id="maps-ireland">&nbsp;</div>
 
@@ -23,3 +23,10 @@ A vontade de ter um blog já existia há bastante tempo. Mas a minha praia era a
 Esse é apenas um post de apresentação. Passe a acompanhar o blog e já veja o que [ocasionou a idéia de um intercâmbio aqui](#).
 
 ## // Mais do blog
+
+Este blog antes de lançado já me acrescentou em muito! Eu o construí por completo - inclusive o <i>design tosco</i>.
+Aprendi a mexer com várias ferramentas, técnicas e aperfeiçoei-me um pouco mais nas linguagens da web - **html**, **css**, **js**.
+
+* Ele é <a href="http://github.com/armoucar/blog" target="_blank">opensource</a>
+* O layout é <a href="http://www.responsinator.com/?url=http://arthurcarvalho.com/dont-panic/#post" target="_blank">adaptativo</a>.
+* Ele foi criado <a href="http://www.lukew.com/ff/entry.asp?933" target="_blank">primeiro pra dispositos móveis</a>, depois para desktops.
