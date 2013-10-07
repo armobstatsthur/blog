@@ -90,8 +90,8 @@ Galera, por um momento me veio a cabeça que alguns de vocês, principalmente os
 
 Definitivamente não é o que sou. A grande questão aqui é **o rala neguin**! Durante minha infância e adolescência minha mãe e pai nunca deixaram que nada do essencial faltasse. Eu não tive nenhuma regalia nessa idade (e hoje agradeço por isso), mas não é nesse ponto que quero me atentar.
 
-Aos dezesseis anos eu arrumei meu primeiro emprego, como **adolescente-trabalhador** no Banco do Brasil. Desde aí, tomo conta das minhas próprias finanças e tenho minhas responsabilidades financeiras - custo fixo - que somente tendem a crescer à medida que se vai ganhando mais e acumulando bens. Eu poderia falar bastante sobre o tema *financeiro*, mas irei deixar pra outro post para não perder o foco. 
+Aos dezesseis anos eu arrumei meu primeiro emprego, como **adolescente-trabalhador** no Banco do Brasil. Desde aí, tomo conta das minhas próprias finanças e tenho minhas responsabilidades financeiras - custo fixo - que somente tendem a crescer à medida que se vai ganhando mais e acumulando bens. Eu não irei me aprofundar no tema *financeiro* por que é algo que quero de deixar pra outro post.
 
-Continuando: após o término do meu contrato de adolescente-trabalhador, recebi oportunidade pra trabalhar em uma equipe técnica. Isso não é muito comum, mas aconteceu comigo. Após isso, nunca mudei de empresa e realizei o meu desenvolvimento profissional no mesmo local. Hoje, ainda estou no mesmo emprego e com data de saída marcada.
+Continuando: após o término do meu contrato de adolescente-trabalhador, recebi oportunidade pra trabalhar em uma equipe técnica no mesmo local. Isso não é muito comum, mas aconteceu comigo. Após isso, ainda não mudei de empresa e realizei todo o meu desenvolvimento profissional no mesmo local. Hoje, ainda estou no mesmo emprego e com data de saída marcada.
 
 É um histórico *bem* resumido, mas antes de fechar o post achei necessário explicar isso. Eu vou ficando por aqui. Sintam-se à vontade para **comentar**, fazer sugestões, críticas, correções etc.
