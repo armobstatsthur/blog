@@ -3,6 +3,12 @@
     CLIType.go(".posts-title");
   }
 
+  // js hack for markdown multiple get parameters processing error
+  var responsiveUrl = win.document.querySelector("#responsive-url");
+  if (responsiveUrl) {
+    responsiveUrl.href = "http://armoucar.github.io/responsive-play/?to=1600&url=http%3A%2F%2Farthurcarvalho.com%2Fdont-panic%2F";
+  }
+
   if (win.document.querySelector("#maps-ireland")) {
 
     win.inicializaMapa =  function() {
