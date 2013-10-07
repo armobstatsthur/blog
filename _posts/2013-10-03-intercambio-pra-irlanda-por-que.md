@@ -36,7 +36,7 @@ A rapaziada do <a href="http://pt.wikipedia.org/wiki/Valpara%C3%ADso_de_Goi%C3%A
 
 Mas isso já se resolveu há pouco mais de um ano. Moro bem perto do trabalho. É caro, mas é um dos meus melhores investimentos, mesmo sendo aluguel.
 
-Morar sozinho há um tempo me dá muita confiança de que vai dar certo na viagem. Eu até agora só não sei como irei fazer pra ter roupas limpas. Desde que saí de casa ainda conto com minha linda mãe nessa tarefa árdua, hahaha - *Folgado master*.
+Morar sozinho há um tempo me dá muita confiança de que tudo vai dar certo na viagem. Eu até agora só não sei como irei fazer pra ter roupas limpas. Desde que saí de casa ainda conto com minha linda mãe nessa tarefa árdua, hahaha - *Folgado master*.
 
 ## // Mês de aniversário
 
@@ -60,7 +60,7 @@ Eu tenho o meu ponto de vista quanto aos vinculos fortes criados entre uma pesso
 
 É claro que eu não estou me referindo ao conforto como algo ruim. Mas não é me baseando em conforto que eu quero levar minha vida, pelo menos por enquanto. Mesmo eu estando há 5 anos na mesma empresa (na data em que escrevo), o que eu quero *hoje* são as novidades - nem que sejam novo apenas pra mim. Lugares, pessoas, costumes, alimentos, clima, *idioma*, cultura, projetos etc.
 
-Quero todas essas novidades sem deixar de dar valor no que já foi conquistado, e aqui eu me refiro principalmente às pessoas - família e amigos. Para os amigos que criei ao longo da vida, se ainda não o fiz, faço questão de deixar explícito o **amor** que eu sinto por vocês. Eu finalmente tive a sacada (que muitos já devem ter tido, mas cada um com seu tempo) que as coisas que fazemos ou sentimos, não fazem muito sentido se não são compartilhadas com outras pessoas. Eu cheguei a essa conclusão refletindo pela minha profissão que é altamente técnica e lida diretamente com máquinas. Em algum outro post, eu irei comentar sobre isso. É aquela sacada que teve o <i>'Christopher McCandless'</i> e foi retratado em <i>'Into the Wild'</i>:
+Quero todas essas novidades sem deixar de dar valor no que já foi conquistado, e aqui eu me refiro principalmente às pessoas - família e amigos. Para os amigos que criei ao longo da vida, se ainda não o fiz, faço questão de deixar explícito o **amor** que eu sinto por vocês. Eu finalmente tive a sacada (que muitos já devem ter tido, mas cada um com seu tempo) que as coisas que fazemos ou sentimos, não fazem muito sentido se não são compartilhadas com outras pessoas. Eu cheguei a essa conclusão refletindo sobre minha profissão que é altamente técnica e lida diretamente com máquinas. Em algum outro post, eu irei comentar sobre isso. É aquela sacada que teve o <i>'Christopher McCandless'</i> e foi retratado em <i>'Into the Wild'</i>:
 
 <object>
   <embed src="http://www.youtube.com/v/31zleAzh1h4" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="100%" height="385"></embed>
