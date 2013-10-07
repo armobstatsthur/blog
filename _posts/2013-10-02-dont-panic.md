@@ -28,5 +28,5 @@ Este blog antes de lançado já me acrescentou em muito! Eu o construí por comp
 Aprendi a mexer com várias ferramentas, técnicas e aperfeiçoei-me um pouco mais nas linguagens da web - **html**, **css**, **js**.
 
 * Ele é <a href="http://github.com/armoucar/blog" target="_blank">opensource</a>
-* O layout é <a href="http://www.responsinator.com/?url=http://arthurcarvalho.com/dont-panic/#post" target="_blank">adaptativo</a>.
+* O layout é <a id="responsive-url" href="http://armoucar.github.io/responsive-play/?url=http%3A%2F%2Farthurcarvalho.com%2Fdont-panic%2F" target="_blank">adaptativo</a>.
 * Ele foi criado <a href="http://www.lukew.com/ff/entry.asp?933" target="_blank">primeiro pra dispositos móveis</a>, depois para desktops.
