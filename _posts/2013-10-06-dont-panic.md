@@ -14,7 +14,7 @@ Em 7 de novembro/13 estarei embarcando para **Dublin**, Irlanda. Este é um blog
 
 ## // Eu
 
-Meu nome é Arthur MOURA Carvalho, 23 anos. Filho de nobres cearences, e que por um descuido geográfico, nasci em Brasília em um dia de seca candanga. Goiano da vida, fui nutrido pela minha linda mãe nas belas terras de *Valparaíso de Goiás*. Hoje sou desenvolvedor de software com algumas boas experiências profissionais na área, no caso, em projetos de software. Eu curto demais aquilo que faço e não crio separação entre vida pessoal e vida profissional. Sou um baixista altamente amador, em todos os sentidos. Música é meu principal hobby: tanto ouvir quanto _playá_.
+Meu nome é Arthur MOURA Carvalho, 23 anos. Filho de nobres cearenses, e que por um descuido geográfico, nasci em Brasília em um dia de seca candanga. Goiano da vida, fui nutrido pela minha linda mãe nas belas terras de *Valparaíso de Goiás*. Hoje sou desenvolvedor de software com algumas boas experiências profissionais na área, no caso, em projetos de software. Eu curto demais aquilo que faço e não crio separação entre vida pessoal e vida profissional. Sou um baixista altamente amador, em todos os sentidos. Música é meu principal hobby: tanto ouvir quanto _playá_.
 
 Vejo agora uma ótima oportunidade pra botar a escrita em prática. Fazendo um mix entre produzir conteúdo e armazenar lembranças dessa experiência que, segundo todos que já passaram e que tive a oportunidade de conhecer, é incrível e inesquecível.
 
