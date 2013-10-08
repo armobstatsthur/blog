@@ -20,7 +20,8 @@ Vejo agora uma ótima oportunidade pra botar a escrita em prática. Fazendo um m
 
 A vontade de ter um blog já existia há bastante tempo. Mas a minha praia era a dos blogs técnicos, no caso, sobre desenvolvimento de software. Eu até fiz uma [tentativa](http://armoucar.blogspot.com.br/), mas por ser um zé ruela acabei deixando totalmente de lado e sem manutenção. Deixo ai nessa web louca e profunda.
 
-Esse é apenas um post de apresentação. Passe a acompanhar o blog e já veja o que [ocasionou a idéia de um intercâmbio aqui](#).
+Esse é apenas um post de apresentação. Passe a acompanhar o blog e já veja o que [ocasionou a idéia de um intercâmbio aqui](../intercambio-pra-irlanda-por-que/#post).
+
 
 ## // Mais do blog
 
@@ -30,3 +31,5 @@ Aprendi a mexer com várias ferramentas, técnicas e aperfeiçoei-me um pouco ma
 * Ele é <a href="http://github.com/armoucar/blog" target="_blank">opensource</a>
 * O layout é <a id="responsive-url" href="http://armoucar.github.io/responsive-play/?url=http%3A%2F%2Farthurcarvalho.com%2Fdont-panic%2F" target="_blank">adaptativo</a>.
 * Ele foi criado <a href="http://www.lukew.com/ff/entry.asp?933" target="_blank">primeiro pra dispositos móveis</a>, depois para desktops.
+
+Estou escrevendo o conteúdo deste blog em um editor de textos básico. Tipo o 'bloco de notas', sem nenhum corretor ortográfico! Eu até achei a idéia interessante pra botar a habilidade de escrita em prática. Mas, por favor, conhecimento nunca é demais! Eu sou uma criança. Me corrijam!!
