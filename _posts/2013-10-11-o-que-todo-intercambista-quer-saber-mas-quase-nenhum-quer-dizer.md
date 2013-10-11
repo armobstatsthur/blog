@@ -6,15 +6,15 @@ category:
 tags: []
 ---
 
-Valores detalhados! Durante as pesquisas de intercâmbio um dos fatores mais importantes - senão o mais importante  - para a decisão do destino é o valor que toda façanha irá custar. São alguns elementos de custo que entram para as contabilidades intercambísticas. O valor não é fixo pois existem diversas váriaveis que vão levar a um custo maior ou menor para o intercâmbio.
+Valores detalhados! Durante as pesquisas de intercâmbio um dos fatores mais importantes - senão o mais importante  - para a decisão do destino é o valor que toda façanha irá custar. São alguns elementos de custo que entram para as contabilidades intercambísticas. O valor não é fixo. Existem diversas váriaveis que vão levar a um custo maior ou menor para o intercâmbio.
 
-Antes de definir tudo, eu sabia que precisava juntar dinheiro independente pra onde fosse. E pra juntar a grana eu precisei estabelecer um valor de corte para o custo de TODO o intercâmbio. Aqui não precisa de tanta pesquisa, a idéia é apenas achar um valor pra se basear, por alto. As vezes você ainda nem sabe pra onde vai, só sabe que quer ir e pronto! Se você está se planejando com antecedência, vai ter bastante tempo pra entender quais vão ser os custos reais na data em que você for de fato gastar o dinheiro, no caso, com moeda local; com escola; valor da passagem pro período em que vai; taxas governamentais etc. Então [solicite orçamentos](http://www.e-dublin.com.br/orcamento-facil/), faça uma pesquisa de passagens aéreas e, se for pra Irlanda, lembre-se dos 3 mil euros - melhor até conta com mais. Agora escolha um valor médio e siga com esse valor.
+Antes de definir tudo (onde, quando, como), eu sabia que precisava juntar dinheiro independente pra onde fosse. E pra juntar a grana eu precisei estabelecer um valor de corte para o custo de TODO o intercâmbio. Aqui não precisa de tanta pesquisa, a idéia é apenas achar um valor pra se basear, por alto. As vezes você ainda nem sabe pra onde vai, só sabe que quer ir e pronto! Se você está se planejando com antecedência, vai ter bastante tempo pra entender quais vão ser os custos reais na data em que você for de fato gastar o dinheiro, no caso, com moeda local; com escola; valor da passagem pro período em que vai; taxas governamentais etc. Então [solicite orçamentos](http://www.e-dublin.com.br/orcamento-facil/), faça uma pesquisa de passagens aéreas e, se for pra Irlanda, lembre-se dos 3 mil euros - melhor até conta com mais. Agora escolha um valor médio e siga com esse valor.
 
-Keep it simple! Levo esse conhecimento do desenvolvimento de software, e é o que me faz, na maioria das vezes, trocar planejamentos por metas. Meta é mais rápida: atinge (ou não), esquece dela, cria outra e tenta atingir novamente. É legal ter a chance de acertar e falhar várias vezes ao longo processo: é menos doloroso.
+<i>Keep it simple</i>! Levo esse conhecimento do desenvolvimento de software, e é o que me faz, na maioria das vezes, trocar planejamentos por metas. Meta é mais rápida: atinge (ou não), esquece dela, cria outra e tenta atingir novamente. É legal ter a chance de acertar e falhar várias vezes ao longo processo: é menos doloroso.
 
 Então eu segui por esse caminho: defini o custo mínimo necessário pra realização do intercâmbio e a data máxima para a realizar o intecâmbio. A partir daí, todo mês ao receber o salário e pagar todas as contas, eu criava novas metas para conseguir poupar grana.
 
-# // Tipos de meta
+## // Tipos de meta
 
 Metas financeiras são pessoais. Cada um tem sua maneira de receber dinheiro (ou não), de gastar com aquilo que é essencial pra si e de poupar dinheiro.
 
@@ -41,5 +41,7 @@ Você está em outubro e define que pode gastar no máximo R$ 300,00 com lazer. 
 `112 * 100 / 300 = 37,33%`
 
 A partir daí você faz uma análise e decide se realmente vai sair na próxima sexta por que ainda não virou nem o primeiro terço do mês e você já está em 37% do que deveria gastar. *Se liga*, **intercâmbista**!!
+
+Pra controlar meus gastos, uso o <a href="http://www.granatum.com.br/pessoal/" target="_blank">Granatum Pessoal</a>. É um serviço web de controle financeiro, é grátis e a usabilidade e interface são muito agradáveis. Não existe uma versão mobile ainda, mas de qualquer forma, foi o serviço que melhor se adequou ao meu formato. Ele, inclusive, possui essa funcionalidade de metas. Recomendo!
 
 ## // Valores nús, totalmente à mostra
