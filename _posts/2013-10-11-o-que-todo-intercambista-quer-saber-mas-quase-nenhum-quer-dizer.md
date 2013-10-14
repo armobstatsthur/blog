@@ -44,4 +44,7 @@ A partir daí você faz uma análise e decide se realmente vai sair na próxima 
 
 Pra controlar meus gastos, uso o <a href="http://www.granatum.com.br/pessoal/" target="_blank">Granatum Pessoal</a>. É um serviço web de controle financeiro, é grátis e a usabilidade e interface são muito agradáveis. Não existe uma versão mobile ainda, mas de qualquer forma, foi o serviço que melhor se adequou ao meu formato. Ele, inclusive, possui essa funcionalidade de metas. Recomendo!
 
-## // Valores nús, totalmente à mostra
+## // Valores nús e totalmente à mostra
+
+Lá no início, o valor que defini para o intercâmbio - no caso, aquele valor onde mencionei não haver tanta preocupação - foi 19 mil reais.
+
