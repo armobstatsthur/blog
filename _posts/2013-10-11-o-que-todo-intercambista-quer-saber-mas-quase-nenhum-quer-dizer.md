@@ -44,6 +44,7 @@ A partir daí você faz uma análise e decide se realmente vai sair na próxima 
 
 Pra controlar meus gastos, uso o <a href="http://www.granatum.com.br/pessoal/" target="_blank">Granatum Pessoal</a>. É um serviço web de controle financeiro, é grátis e a usabilidade e interface são muito agradáveis. Não existe uma versão mobile ainda, mas de qualquer forma, foi o serviço que melhor se adequou ao meu formato. Ele, inclusive, possui essa funcionalidade de metas. Recomendo!
 
+<<<<<<< HEAD
 ## // Agência de intercâmbio: sim ou não?
 
 Uma questão muito importante para conseguir redução no valor de todo o pacote de intercâmbio é: a negociação será feita com uma agência de intercâmbio ou diretamente com a escola?
@@ -129,5 +130,3 @@ Total: R$ 9.949,60
 2% de desconto à vista: **R$ 9.750,61**
 
 Solicitei um outro orçamento *diretamente* para a IBAT
-
-
