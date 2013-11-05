@@ -1,5 +1,5 @@
 permalink: /:title/
-exclude: ["README.md", "bin", "appengine", "old_blogspot", ".gitignore", "Rakefile"]
+exclude: ["README.md", "bin", "appengine", "old_blogspot", ".gitignore", "Rakefile", "new"]
 production_url : http://armoucar.me
 
 name: Arthur Carvalho
