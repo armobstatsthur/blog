@@ -135,6 +135,11 @@ em {
   text-align: center;
 }
 
+.post-img, .post-video embed {
+  max-width: 100%;
+  margin-bottom: 1em;
+}
+
 .fb-comments {
   max-width: 600px;
   width: 100%!important;
