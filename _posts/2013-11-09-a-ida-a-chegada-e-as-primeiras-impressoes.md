@@ -20,7 +20,7 @@ Panos (a.k.a roupas) e derivados eu deixaria pra comprar por aqui pois já tinha
 
 Eu tenho minhas *tech-coisinhas*. São bens materiais que fazem parte do meu dia a dia e que dou imenso valor. Eu não pretendo somar uma grande quantidade de equipamentos eletrônicos: se eu tenho esses <i>gadgets</i> hoje são porque eles realmente são úteis na minha rotina. Faz parte de um estilo mais minimalista que eu venho seguingo há algum tempo. Não pretendo ter muitas coisas físicas (segundo minha vó: os <a href="http://goo.gl/VtBEQT" target="_blank">cacarecos</a>), assim qualquer mudança será menos dolorosa. Claro, isso não serve apenas pra mudanças: é mais econômico, custo de manutenção reduzido, menos peso, menos poeira etc.
 
-Então eu fiz essa mala (reparem no tamanho) de roupas:
+Então eu fiz essa mala de roupas (reparem no tamanho):
 
 <img src="../images/tamanho-da-mala.jpg" class="post-img" >
 
@@ -43,6 +43,8 @@ O dia da viagem começou ótimo! Em nenhum momento no blog eu fiz menção de um
 O nosso namoro acabou perto de completar 5 anos de idade. Dentre o intercâmbio como uma menor parte, existem lá meus motivos - que não quero entrar em detalhes pelo 'receio do quê eu escreva possa causar'.
 
 Ela fez uma tortuosa viagem à minha casa em *Valparadise Lost City* e me ajudou a arrumar as malas; lembrar daquilo que não podia esquecer e me encheu de carinho pra que eu a desse um adeus babando e todo apaixonado. Linda!
+
+### /\* ... \*/
 
 No dia seguinte, acompanhado da ilustre 'minha mãe' e da celébre 'minha vó' fui ao aeroporto de BSB. Com antecedência no compromisso, realizei os <i>check-ins</i> e aguardei, agora acompanhado também do exímio 'meu pai'.
 
@@ -89,11 +91,11 @@ De início, já saí com o Alan pra dar uma sondada no local. Andamos pelas ruas
 
 Cheguei na sexta, logo, não deu outra: saí pra conhecer alguns <i>pubs</i> por aqui. Os <i>pubs</i> que fui são bem legais, diversos deles com música ao vivo (normalmente voz e violão), cada um com diversas cervejas e bebidas diferentes e um clima bem agrádavel pra passar uma noite toda bebendo. Todos os que passei são lugares bem agrádaveis pra se ficar e ainda: não pedem nenhum tipo de pagamento, seja pela entrada ou <i>couver</i>. Tomei minha primeira <i>Guinness</i> e achei ótima! A parte ruim é que eu não posso ficar tomando várias dessas <i>guinness</i>, é chato ficar com a conversão real->euro na cabeça, mas por enquanto não tem jeito. Tenho que ver como vai ser o primeiro mês pra me situar com os custos. A média de uma <i>Guinness</i> (ou qualquer outro copão de cerveja do mesmo tamanho) é de €5 (R$15).
 
-Algo que me deixou muito feliz por aqui são as músicas que eu tenho escutado nos <i>pubs</i> e na rua. O que eu tenho escutado normalmente por aí são coisas do tipo: música tradicional irlandesa (celta), Beatles, Oasis, Led Zeppelin, Cardigans, U2, Radiohead, Rolling Stones dentre outras. Falando em música...
+Algo que me deixou muito feliz por aqui são as músicas que eu tenho escutado nos <i>pubs</i> e na rua. O que eu tenho escutado por aí são coisas do tipo: música tradicional irlandesa (celta), Beatles, Oasis, Led Zeppelin, Cardigans, U2, Radiohead, Rolling Stones dentre outras. Falando em música...
 
 ## // Buskers
 
-Buskers são músicos que se apresentam aqui nas ruas de Dublin (ou de qualquer outra cidade) para conseguir tirar uma grana. O legal é que aqui funciona e depende apenas do talento e esforço dos músicos. O que eu vejo aqui é que o pessoal realmente pára pra escutar se o <i>busker</i> for talentoso. E claro, ele também é gratificado com alguns <i>cents</i> normalmente no <i>bag</i> do seu instrumento que fica aberto.
+Buskers são músicos que se apresentam aqui nas ruas de Dublin (ou de qualquer outra cidade) para conseguir tirar uma grana. O legal é que aqui funciona e depende apenas do talento e esforço dos músicos. O que eu vejo aqui é que o pessoal realmente pára pra escutar se o <i>busker</i> for talentoso. E claro, ele também é gratificado com alguns <i>cents</i>, normalmente no <i>bag</i> do seu instrumento que fica aberto.
 
 Eu curti isso demais e inclusive contribuo quando acho o trabalho bom. Fiz algumas filmagens (e pretendo continuar fazendo) desses caras:
 
@@ -113,10 +115,10 @@ Esse é um outro vídeo que achei no youtube com um grupo arrebentando na músic
 
 ## // Howth
 
-No domingo, a Amanda (<i>flatmate</i>) me convidou pra ir a um ponto turístico aqui em Dublin. O nome do lugar é <a target="_blank" href="http://www.e-dublin.com.br/pra-onde-ir-howth/">Howth</a>, uma península na costa de Dublin que tem uma trilha com uma vista linda! Clicando no link anterior você consegue mais informações sobre o lugar. Eu vou me limitar as imagens:
+No domingo, a Amanda (<i>flatmate</i>) me convidou pra ir a um ponto turístico aqui em Dublin. O nome do lugar é <a target="_blank" href="http://www.e-dublin.com.br/pra-onde-ir-howth/">Howth</a>, uma península na costa de Dublin que tem uma trilha com uma vista linda! Clicando no link anterior você consegue mais informações sobre o lugar. Eu vou me limitar as gravações que fiz:
 
 <object class="post-video">
-  <embed src="http://www.youtube.com/v/POmCrQXphaE" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="100%" height="385"></embed>
+  <embed src="http://www.youtube.com/v/wQbHB_wq4bY" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="100%" height="385"></embed>
 </object>
 
 Por enquanto é isso pessoal. As minhas aulas já começaram, já estou com uma rotina aqui que por enquanto está bem tranquila. Estou gostando e aproveitando demais dessa linda cidade. Em breve volto com mais notícias. **See you, bye!**
