@@ -62,9 +62,7 @@ Eu tenho o meu ponto de vista quanto aos vinculos fortes criados entre uma pesso
 
 Quero todas essas novidades sem deixar de dar valor no que já foi conquistado, e aqui eu me refiro principalmente às pessoas - família e amigos. Para os amigos que criei ao longo da vida, se ainda não o fiz, faço questão de deixar explícito o *amor* que sinto por vocês. Eu finalmente tive a sacada (que muitos já devem ter tido, mas cada um com seu tempo) que as coisas que fazemos ou sentimos, não fazem muito sentido se não são compartilhadas com outras pessoas. Eu cheguei a essa conclusão refletindo sobre minha profissão que é da área técnica e lida diretamente com máquinas. Espero fazer um post sobre isso. É aquela sacada que teve o <i>'Christopher McCandless'</i> e foi retratado em <i>'Into the Wild'</i>:
 
-<object>
-  <embed src="http://www.youtube.com/v/31zleAzh1h4" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="100%" height="385"></embed>
-</object>
+<iframe class="post-video" src="http://www.youtube.com/embed/31zleAzh1h4?html5=1" width="100%" height="385">unwantedtext</iframe>
 
 ## // Inglês fraco e insatisfatório
 

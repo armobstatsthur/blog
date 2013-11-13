@@ -135,7 +135,7 @@ em {
   text-align: center;
 }
 
-.post-img, .post-video embed {
+.post-img, .post-video {
   max-width: 100%;
   margin-bottom: 1em;
 }

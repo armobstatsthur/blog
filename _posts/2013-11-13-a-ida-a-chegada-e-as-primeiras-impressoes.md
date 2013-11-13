@@ -99,26 +99,17 @@ Buskers são músicos que se apresentam aqui nas ruas de Dublin (ou de qualquer 
 
 Eu curti isso demais e inclusive contribuo quando acho o trabalho bom. Fiz algumas filmagens (e pretendo continuar fazendo) desses caras:
 
-<object class="post-video">
-  <embed src="http://www.youtube.com/v/POmCrQXphaE" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="100%" height="385"></embed>
-</object>
-
-<object class="post-video">
-  <embed src="http://www.youtube.com/v/BcuUwKM_EAg" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="100%" height="385"></embed>
-</object>
+<iframe class="post-video" src="http://www.youtube.com/embed/POmCrQXphaE?html5=1" width="100%" height="385">unwantedtext</iframe>
+<iframe class="post-video" src="http://www.youtube.com/embed/BcuUwKM_EAg?html5=1" width="100%" height="385">unwantedtext</iframe>
 
 Esse é um outro vídeo que achei no youtube com um grupo arrebentando na música celta. Lá você consegue achar diversos outros vídeos de <i>buskers</i>.
 
-<object class="post-video">
-  <embed src="http://www.youtube.com/v/7ortYuVnVS0" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="100%" height="385"></embed>
-</object>
+<iframe class="post-video" src="http://www.youtube.com/embed/7ortYuVnVS0?html5=1" width="100%" height="385">unwantedtext</iframe>
 
 ## // Howth
 
 No domingo, a Amanda (<i>flatmate</i>) me convidou pra ir a um ponto turístico aqui em Dublin. O nome do lugar é <a target="_blank" href="http://www.e-dublin.com.br/pra-onde-ir-howth/">Howth</a>, uma península na costa de Dublin que tem uma trilha com uma vista linda! Clicando no link anterior você consegue mais informações sobre o lugar. Eu vou me limitar as gravações que fiz:
 
-<object class="post-video">
-  <embed src="http://www.youtube.com/v/wQbHB_wq4bY" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="100%" height="385"></embed>
-</object>
+<iframe class="post-video" src="http://www.youtube.com/embed/wQbHB_wq4bY?html5=1" width="100%" height="385">unwantedtext</iframe>
 
 Por enquanto é isso pessoal. As minhas aulas já começaram, já estou com uma rotina aqui que por enquanto está bem tranquila. Estou gostando e aproveitando demais dessa linda cidade. Em breve volto com mais notícias. **See you, bye!**
