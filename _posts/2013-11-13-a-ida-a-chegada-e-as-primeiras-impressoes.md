@@ -14,7 +14,7 @@ A 1ª mega notícia é que eu tive de enfrentar burocracias brasileiras. Na verd
 
 ## // Arrumando as malas
 
-A única coisa que eu comprei antes de viajar foram meus óculos. Há pouco tempo eu perdi meu antigo (que não era antigo, 6 meses no máximo) par de óculos e já estava completando quase um mês com a miopia nua - para o meu grau (o.d: 0.75, o.s: 1.25) é até possível sobreviver andando na rua, mas é um encomodo <i>da peste</i>.
+A única coisa que eu comprei antes de viajar foram meus óculos. Há pouco tempo eu perdi meu antigo (que não era antigo, 6 meses no máximo) par de óculos e já estava completando quase um mês com a miopia nua - para o meu grau (o.d: 0.75, o.s: 1.25) é até possível sobreviver andando na rua, mas é um incômodo <i>da peste</i>.
 
 Panos (a.k.a roupas) e derivados eu deixaria pra comprar por aqui pois já tinha verificado que é bem mais barato. E eu realmente preciso de novos panos, pois até hoje eu me visto de acordo com o que as pessoas gostam, e o pior: eu passo muito tempo usando as mesmas roupas. Quem me conhece ou até quem apenas me viu sabe que roupas não são uma preocupação em minha vida. <strike>Foda-se eaiheaih</strike>.
 
@@ -46,7 +46,7 @@ Ela fez uma tortuosa viagem à minha casa em *Valparadise Lost City* e me ajudou
 
 ### /\* ... \*/
 
-No dia seguinte, acompanhado da ilustre 'minha mãe' e da celébre 'minha vó' fui ao aeroporto de BSB. Com antecedência no compromisso, realizei os <i>check-ins</i> e aguardei, agora acompanhado também do exímio 'meu pai'.
+No dia seguinte, acompanhado da ilustre 'minha mãe' e da célebre 'minha vó' fui ao aeroporto de BSB. Com antecedência no compromisso, realizei os <i>check-ins</i> e aguardei, agora acompanhado também do exímio 'meu pai'.
 
 <img src="../images/arthur-mamae-e-vovo-no-aeroporto.jpg" class="post-img" >
 <img src="../images/arthur-e-papai.jpg" class="post-img">
@@ -57,7 +57,7 @@ O primeiro destino foi Guarulhos. De primeira já cometo aquela falha típica qu
 
 Três horas de espera em Guarulhos e finalmente a partida para o próximo destino, Madrid. O ambiente já começou a mudar. Um avião *beeem* maior, com 3 fileiras de cadeiras. A partir de agora todas as informações eram dadas em espanhol e inglês. Agora ao invés de ter de assistir, quase que obrigatoriamente, ao programa da Angélica entrevistando não sei qual artista da globo eu estava escutando música clássica no avião: ahh, realmente estava começando a melhorar.
 
-No vôo BSB->GRU eu fui sozinho, com as poltronas laterais liberadas. E para minha incrível sorte, novamente eu estava sozinho no vôo pra Madrid: em um vôo que duraria mais de que 10 horas, isso me deixou bastante satisfeito. Durante a noite, depois de ver um filme, peguei aquele cobertozinho maroto da Ibéria, tirei meu tênis, ajustei minhas pernas de uma forma que me coubesse deitado nos dois bancos e dormi como um bebê - claro que não foi tão confortável assim e eu acordei diversas vezes durante a noite, mas de qualquer forma eu fiquei bastante satisfeito.
+No vôo BSB->GRU eu fui sozinho, com as poltronas laterais liberadas. E para minha incrível sorte, novamente eu estava sozinho no vôo pra Madrid: em um vôo que duraria mais de que 10 horas, isso me deixou bastante satisfeito. Durante a noite, depois de ver um filme, peguei aquele cobertorzinho maroto da Ibéria, tirei meu tênis, ajustei minhas pernas de uma forma que me coubesse deitado nos dois bancos e dormi como um bebê - claro que não foi tão confortável assim e eu acordei diversas vezes durante a noite, mas de qualquer forma eu fiquei bastante satisfeito.
 
 Conheci os dois brasileiros que estavam no banco da frente: Natasha que estava indo pra Milão e Diego, um músico carioca que estava indo pra <i>playá</i> com os amigos pela cidade de Lisboa. Estou mantendo contato com esse malucão pelo facebook. Bem gente boa a <i>peça</i>.
 
@@ -78,7 +78,7 @@ No aeroporto de Madrid também conheci o Felipe, um cara que trabalha na agênci
 
 I<i>rish sea, cold wind and green grass!</i> A sensação foi ótima de descer do avião e olhar umas vaquinhas malhadas em um pasto verde imenso bem ao lado do aeroporto.
 
-O transfer já estava nos esperando, o Felipe me emprestou o celular para que eu pudesse ligar pro meu pai e dar notícias. O apartamento onde estou fica bem no centro de Dublin, em Dublin 1, próximo ao <i>Spire</i>. Logo, conheci o minêro Alan - my flatmate -, gente boa demais da conta. Já ficamos <i>brothers</i> de início e de tarde fomos dar um pequeno passeio pela cidade pra ele me apresentar alguns lugares. É isso aí, começou o momento pelo qual eu estava tão ancioso.
+O transfer já estava nos esperando, o Felipe me emprestou o celular para que eu pudesse ligar pro meu pai e dar notícias. O apartamento onde estou fica bem no centro de Dublin, em Dublin 1, próximo ao <i>Spire</i>. Logo, conheci o minêro Alan - my flatmate -, gente boa demais da conta. Já ficamos <i>brothers</i> de início e de tarde fomos dar um pequeno passeio pela cidade pra ele me apresentar alguns lugares. É isso aí, começou o momento pelo qual eu estava tão ansioso.
 
 De início, já saí com o Alan pra dar uma sondada no local. Andamos pelas ruas e fomos ao mercado comprar algumas coisinhas pra mim. As coisas no mercado são até baratas. Comprei do básico e não fiquei olhando muito o que tem de diferente. Pão, leite, queijo, mortadela, batatas, ovos, arroz, suco, biscoitos etc: só a sobrevivência inicial.
 
