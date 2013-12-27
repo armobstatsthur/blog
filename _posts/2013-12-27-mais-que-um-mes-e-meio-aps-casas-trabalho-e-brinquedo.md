@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mais que um mes e meio após... Casas, trabalho e brinquedo."
+title: "Mais que um mês e meio após... Casas, trabalho e brinquedo."
 description: ""
 category:
 tags: []
