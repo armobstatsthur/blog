@@ -53,7 +53,7 @@ A primeira vez vendo neve a gente nunca vai esquecer. Foi <i>awesome</i>!! Todos
 
 ## // Finishing
 
-Resumidão, mas isso é o que rolou em alguns dias aqui. Como eu falei, eu estou tentando seguir uma rotina e assim, fazer com que as coisas que eu planejei antes de vir pra Irlanda aconteçam. Desculpe meu português <i>lixoso</i> cheio de gírias (é intencional, acredite) e erros (não são intencionais, o blog é <i>opensouce</i> e você pode contribuir apontando-os pra mim <span class="eyes">:</span><span class="tong">D</span>). Abaixo seguem algumas fotos daqui. Um abraço bem apertado e com saudades embutidas!
+Resumidão, mas isso é o que rolou em alguns dias aqui. Como eu falei, eu estou tentando seguir uma rotina e assim, fazer com que as coisas que eu planejei antes de vir pra Irlanda aconteçam. Desculpe meu português <i>lixoso</i> cheio de gírias (é intencional, acredite) e erros (não são intencionais, o blog é <a href="http://github.com/armoucar/blog" target="_blank">opensource</a> e você pode contribuir apontando-os pra mim <span class="eyes">:</span><span class="tong">D</span>). Abaixo seguem algumas fotos daqui. Um abraço bem apertado e com saudades embutidas!
 
 <img src="../images/2014-02-16/1-war-memorial.jpg" class="post-img">
 
