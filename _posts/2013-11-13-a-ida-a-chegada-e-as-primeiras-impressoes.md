@@ -3,6 +3,7 @@ layout: post
 title: "A pré-ida, a ida, a chegada e as primeiras impressões"
 description: ""
 category: 
+locale: pt
 tags: []
 ---
 

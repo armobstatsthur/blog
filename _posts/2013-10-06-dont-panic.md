@@ -3,6 +3,7 @@ layout: post
 title: "Startando"
 description: ""
 category: 
+locale: pt
 tags: []
 ---
 

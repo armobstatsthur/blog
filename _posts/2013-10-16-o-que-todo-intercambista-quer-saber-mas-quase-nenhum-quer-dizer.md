@@ -3,6 +3,7 @@ layout: post
 title: "O que todo intercâmbista quer saber, mas (quase) nenhum quer dizer."
 description: ""
 category: 
+locale: pt
 tags: []
 ---
 

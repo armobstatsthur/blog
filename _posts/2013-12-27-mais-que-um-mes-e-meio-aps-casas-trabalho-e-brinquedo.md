@@ -3,6 +3,7 @@ layout: post
 title: "Mais que um mês e meio após... Casas, trabalho e brinquedo."
 description: ""
 category:
+locale: pt
 tags: []
 ---
 
