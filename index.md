@@ -16,10 +16,12 @@ class:
   {% for post in site.posts %}
 
   	{% if post.draft != true %}
-    	<li class="one-post">
-          <a class="list-post-title" href="{{ post.url }}#post">{{ post.title }}</a>
-          <span class="date">{{ post.date | date_to_string }}</span>
-      </li>
+      {% if post.locale == "pt" %}
+        <li class="one-post">
+            <a class="list-post-title" href="{{ post.url }}#post">{{ post.title }}</a>
+            <span class="date">{{ post.locale }}{{ post.date | date_to_string }}</span>
+        </li>
+      {% endif %}
     {% endif %}
 
   {% endfor %}
