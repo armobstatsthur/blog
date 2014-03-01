@@ -13,8 +13,6 @@
   </head>
 
   <body lang="en">
-
-
     <section class="content">
       <header class="header">
         <a class="huge blog-title" href="/">Arthur Carvalho</a>
@@ -39,6 +37,22 @@
           <a href="/dont-panic/#post"><img class="dont-panic" src="../images/dont-panic.png" alt="about me" /></a>
         </div>
       </header>
+
+      <div class="i18n-box">
+        {% if page.locale == "pt" %}
+         <a href="/" class="notDecorated"><strong>PT</strong></a>
+        {% endif %}
+        {% if page.locale != "pt" %}
+          <a href="/" class="notDecorated">PT</a>
+        {% endif %}
+        |
+        {% if page.locale == "en" %}
+          <a href="/en/" class="notDecorated"><strong>EN</strong></a>
+        {% endif %}
+        {% if page.locale != "en" %}
+          <a href="/en/" class="notDecorated">EN</a>
+        {% endif %}
+      </div>
 
       <div class="main-content">
         {{ content }}

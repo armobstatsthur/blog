@@ -179,6 +179,12 @@ h2 {
   font-size: 1.4em;
 }
 
+.i18n-box {
+  margin: 1em;
+  text-align: center;
+  font-size: 2.5em;
+}
+
 .main-content {
   max-width: 30em;
   margin: 0 auto;
@@ -288,7 +294,6 @@ h2 {
 .links ul li {
   float: none;
   width: 100%;
-  padding: .5em;
   text-align: center;
 }
 
@@ -308,6 +313,8 @@ h2 {
   text-decoration: none;
   font-size: 1.1em;
   color: #FEFEFE;
+  display: block;
+  padding: .5em;
 }
 
 .withoutDisplay {
@@ -316,6 +323,11 @@ h2 {
 
 .notVisible {
   visibility: hidden;
+}
+
+.notDecorated {
+  text-decoration: none;
+  color: inherit;
 }
 
 @media only screen and (min-width: 26em) {

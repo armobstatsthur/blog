@@ -3,6 +3,7 @@ layout: main
 title: Home
 ogtype: website
 class:
+locale: en
 ---
 
 <header class="cabecalho">
