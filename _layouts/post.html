@@ -27,7 +27,12 @@
         <div class="me">
           <nav class="links">
             <ul class="primary-links">
-              <li><a class="link" href="/">home</a></li>
+              {% if page.locale == "pt" %}
+                <li><a class="link" href="/">home</a></li>
+              {% endif %}
+              {% if page.locale == "en" %}
+                <li><a class="link" href="/en/">home</a></li>
+              {% endif %}
               <li><a class="link" href="/feed.xml" target="_blank">rss</a></li>
             </ul>
             <ul class="secondary-links">
